@@ -1,16 +1,99 @@
-## Hi there 👋
+# Lingaraj Ayli
 
-<!--
-**lingarajayli/lingarajayli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer | AWS | Azure | Kubernetes | Terraform | DevSecOps
 
-Here are some ideas to get you started:
+DevOps Engineer focused on cloud infrastructure, automation, platform engineering, and DevSecOps practices. Experienced in building and managing AWS environments using Terraform, Kubernetes, Docker, and CI/CD pipelines, with growing expertise in Azure cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* Cloud Infrastructure & Automation
+* AWS & Azure
+* Kubernetes (EKS / AKS)
+* Terraform & Infrastructure as Code
+* GitLab CI/CD & GitHub Actions
+* DevSecOps & Security Automation
+* Platform Engineering
+* Monitoring & Observability
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud Platforms
+
+* AWS
+* Azure
+
+### Infrastructure as Code
+
+* Terraform
+* Ansible
+
+### Containers & Orchestration
+
+* Docker
+* Kubernetes
+
+### CI/CD
+
+* GitLab CI/CD
+* GitHub Actions
+
+### Monitoring & Observability
+
+* Prometheus
+* Grafana
+
+### Security
+
+* Snyk
+* SonarQube
+* Checkov
+* OWASP ZAP
+* GitLeaks
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* AWS RDS
+* AWS DMS
+
+### Scripting
+
+* Bash
+* Python
+
+---
+
+## 📌 Featured Areas
+
+* Cloud Infrastructure Automation
+* Kubernetes Platform Operations
+* DevSecOps Pipelines
+* Infrastructure Security
+* Database Migration Automation
+* Monitoring & Observability
+
+---
+
+## 🌱 Currently Learning
+
+* Azure DevOps
+* Azure Kubernetes Service (AKS)
+* GitOps
+* Platform Engineering
+* Cloud Security Automation
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/lingarajjayli
+* GitHub: github.com/lingarajayli
+
+---
+
+> Building reliable, scalable, and secure cloud platforms through automation.
