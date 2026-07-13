@@ -386,7 +386,7 @@ These technologies represent my active learning and lab-development direction an
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingarajayli&theme=github_dark" alt="GitHub profile summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lingarajayli&theme=github_dark&title_color=58a6ff" alt="GitHub profile summary"/>
 
 </div>
 
