@@ -376,9 +376,9 @@ These technologies represent my active learning and lab-development direction an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lingarajayli&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lingarajayli&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&v=2" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingarajayli&layout=compact&hide_border=true&title_color=2ea043&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Repository languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingarajayli&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&v=2" alt="Repository languages"/>
 
 <br/>
 
