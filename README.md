@@ -85,7 +85,7 @@ My portfolio demonstrates modular Terraform development, AWS infrastructure auto
 | **Infrastructure as Code** | Terraform, reusable modules, environment separation |
 | **Configuration Management** | Ansible |
 | **Containers and Orchestration** | Docker, Kubernetes, Amazon EKS, Helm |
-| **CI/CD and Build Automation** | GitLab CI/CD, GitHub Actions, Jenkins, Maven |
+| **CI/CD and Build Automation** | GitLab CI/CD, GitHub Actions, Maven |
 | **DevSecOps and Security** | SonarQube, SonarLint, Snyk, Checkov, GitLeaks, OWASP ZAP, Threat Dragon |
 | **Secrets Management** | HashiCorp Vault, AWS Secrets Manager |
 | **Observability** | Prometheus, Grafana, AWS CloudWatch |
@@ -194,10 +194,13 @@ A local-first DevSecOps platform connecting application delivery, infrastructure
 - secrets and configuration protection
 - metrics, dashboards, and alerting
 - incident investigation and operational documentation
+- local AWS-style platform using Floci with ₹0 cloud cost
+- Terraform-managed S3, IAM, Secrets Manager, SSM, Lambda, CloudWatch, EC2, Security Groups, and ECR
+- secure artifact platform with local CI/CD artifact upload simulation
 
 **Technologies**
 
-`Linux` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `GitLab CI/CD` `Jenkins` `SonarQube` `Prometheus` `Grafana`
+`Linux` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `GitLab CI/CD` `SonarQube` `Prometheus` `Grafana` `Floci`
 
 ---
 
