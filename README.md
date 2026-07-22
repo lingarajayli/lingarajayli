@@ -113,7 +113,6 @@ My portfolio demonstrates modular Terraform development, AWS infrastructure auto
 <p>
   <img src="https://img.shields.io/badge/GitLab_CI%2FCD-161B22?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab CI/CD"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-161B22?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Maven-161B22?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven"/>
   <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -285,7 +284,7 @@ flowchart LR
 | [Terraform AWS Infrastructure](https://github.com/lingarajayli/terraform-aws-infrastructure) | Terraform, AWS, reusable modules, GitHub Actions | Active |
 | [DevSecOps Platform](https://github.com/lingarajayli/devsecops-platform) | Linux, Docker, Kubernetes, CI/CD, DevSecOps | Active |
 | Containerized Application | Docker, Linux, NGINX, application delivery | Planned |
-| Secure CI/CD Pipeline | Jenkins, GitLab CI/CD, GitHub Actions, SonarQube | Planned |
+| Secure CI/CD Pipeline | GitLab CI/CD, GitHub Actions, SonarQube | Planned |
 | Kubernetes and EKS Lab | Kubernetes, EKS, Helm, monitoring | Planned |
 | Observability Lab | Prometheus, Grafana, CloudWatch | Planned |
 | Ansible Automation Lab | Ansible, Linux, Bash | Planned |
